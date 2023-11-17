@@ -1,4 +1,7 @@
 # ZENCAPTCHA for Drupal
+<a href='https://www.zencaptcha.com/docs/de/zencaptcha-drupal'>🇩🇪 Installation (auf Deutsch)</a> • 
+<a href='https://www.zencaptcha.com/docs/fr/zencaptcha-drupal'>🇫🇷 Installation (en Français)</a>
+
 Protects forms from abuse by bots and unfair users. Reduces spam, blocks fake and disposable email addresses and increases your user base quality without the use of cookies. Fully GDPR compliant.
 Protect your Drupal forms and stay GDPR compliant.
 Full documentation and code support: https://git.drupalcode.org/project/zencaptcha
